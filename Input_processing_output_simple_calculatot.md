@@ -1,6 +1,6 @@
 ## Input-Processing-Output_The simple calculator
 
-# Step 1:
+## Step 1:
 create a program to accept two input to process user data
 
 # Step 2:
